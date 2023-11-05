@@ -6,10 +6,9 @@
 My name is Md Jahidul Islam Sujan. I am a web Design and logo design. I have a lot of experience with HTML, CSS, WARDPRESS, and Adobe Illustrator. I would like to help you any website Design and logo Design needs. I am here to supply you the most effective service on the customary value. I work hard until my client 100% satisfy.
 
 My Work Skills:
-: Professional
-Website Design
-- Logo Design
-- Banner Design
+➡ Professional Website Design
+➡ Logo Design
+➡ Banner Design
 
 The key to my success is that I love my profession and I never stop evolving as a designer.
 
@@ -22,14 +21,19 @@ You are better off using WordPress Elementor (PRO)
 Modern HTML and CSS design.
 
 Logo design :
-- Professional Logo design
-- High-quality designs
-- Excellent communication
-- Unlimited revisions
+➡ Professional Logo design
+➡ High-quality designs
+➡ Excellent communication
+➡ Unlimited revisions
 
 Thanks for
 
-Skills: WordPress / HTML / CSS/ javascript/Php/
+Skills:
+✅WordPress 
+✅HTML 
+✅CSS
+✅javascript
+✅Php
 
 - 🔭 I’m currently working on https://binmobarak.com/ 
 - 🌱 I’m currently learning javascript/php 
